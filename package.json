@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "learn-openx-ui https://juejin.cn/post/7254341178258505788",
 	"private": true,
-	"packageManager": "pnpm@8.15.8",
+	"packageManager": "pnpm@12.4.1",
 	"main": "index.js",
 	"scripts": {
 		"clean:type": "rimraf ./dist",
